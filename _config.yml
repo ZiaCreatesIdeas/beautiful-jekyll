@@ -9,7 +9,7 @@
 title: Alexs Website
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A place to park a demo reel.
 
 # GitHub Actions
 repository: "ziacreatesideas/beautiful-jekyll"
@@ -26,7 +26,8 @@ author: Zia
 navbar-links:
   About Me: "aboutme"
   Resources:
-   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # you can comment out subdirectories in the yaml file, as below:
+   # - Beautiful Jekyll: "https://beautifuljekyll.com" 
     - Learn markdown: "https://www.markdowntutorial.com/"
   Zias home: "https://deanattali.com"
 
