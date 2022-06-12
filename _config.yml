@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Alexs Website
+title: Zias Demo Reel
 
 # Short description of your site
 description: A place to park a demo reel.
@@ -24,12 +24,12 @@ author: Zia
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Resources:
    # you can comment out subdirectories in the yaml file, as below:
    # - Beautiful Jekyll: "https://beautifuljekyll.com" 
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Zias home: "https://deanattali.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+  # Zias home: "https://deanattali.com"
 
 # --- Logo --- #
 
