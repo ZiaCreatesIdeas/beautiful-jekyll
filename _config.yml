@@ -25,9 +25,8 @@ author: Zia
 
 navbar-links:
   About Me: "aboutme"
-  About Me 2: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Zias home: "https://deanattali.com"
 
