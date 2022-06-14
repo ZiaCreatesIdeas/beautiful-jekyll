@@ -241,5 +241,8 @@ plugins:
 
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
+# Added ref FAQ to delete posts on home page.
+paginate_path: "/blog/page:num/"
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
