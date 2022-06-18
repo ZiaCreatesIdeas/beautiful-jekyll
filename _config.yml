@@ -7,10 +7,10 @@
 paginate_path: "/blog/page:num/"
 
 # Name of website
-title: Zias Demo Reel
+title: Zia's Demo Reel
 
 # Short description of your site
-description: A place to park a demo reel.
+description: Demo Reel
 
 # GitHub Actions
 repository: "ziacreatesideas/beautiful-jekyll"
@@ -20,7 +20,7 @@ repository: "ziacreatesideas/beautiful-jekyll"
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # Your name to show in the footer
-author: Zia v2
+author: Zia v3
 
 # --- List of links in the navigation bar --- #
 
@@ -36,7 +36,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/img/film-reel.png"
+avatar: "assets/img/film-reel_output.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
